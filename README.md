@@ -22,7 +22,7 @@ The system allows users to upload a leaf image and returns the predicted disease
 ## Model Training
 
 Model training is implemented in the `plantvillage2.ipynb` notebook. Several pre-trained models were evaluated:
-
+* CNN
 * VGG16
 * ResNet50
 * InceptionV3
